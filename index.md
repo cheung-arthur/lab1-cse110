@@ -48,7 +48,7 @@ Here is a totally not suspiscious link
 [random other page](random-other-page.md)
 
 I'm on to you
-[profile image](suspiscious-emoji.gif).
+![profile image](suspicious-emoji.gif).
 
 ## Extra Notes
 **Bold text**, *italic text*, and ~~strikethrough~~ are all useful when writing in Markdown.
